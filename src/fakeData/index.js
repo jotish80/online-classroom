@@ -1,4 +1,4 @@
 import courses from './courses';
-const fakeData = [courses];
-console.log(fakeData);
+const fakeData = [...courses];
+
 export default fakeData;

@@ -48,3 +48,5 @@
       coursePrice: 300
     }
  ];
+
+ export default courses;
